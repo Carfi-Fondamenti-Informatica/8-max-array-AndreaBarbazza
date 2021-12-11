@@ -1,1 +1,7 @@
+#ifndef ESERCITAZIONE8_MAXI_ARRAY_LIB_H
+#define ESERCITAZIONE8_MAXI_ARRAY_LIB_H
+
+float Massimo (float[],int );
+
+#endif //ESERCITAZIONE8_MAXI_ARRAY_LIB_H
 
